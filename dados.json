@@ -1,0 +1,34 @@
+{
+
+    "usuarios":[
+
+        {
+            "nome": "Juribeu" ,
+            "idade": "Todas" ,
+            "profissao": "Animador de velório"
+        },
+
+        {
+            "nome": "Jiuylia" ,
+            "idade": "24" ,
+            "profissao": "Borracheira de pneu de trem"
+        },
+
+        {
+            "nome": "Gustavin" ,
+            "idade": "52" ,
+            "profissao": "Enxugador de Gelo"
+        }
+
+    ]
+
+}
+
+
+
+
+
+
+
+
+
